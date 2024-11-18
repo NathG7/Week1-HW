@@ -1,0 +1,10 @@
+package week2BooleanConditions;
+
+public class BooleanConditions {
+	
+	public static void manin(String[ args]) {
+		
+	
+	}
+
+}
