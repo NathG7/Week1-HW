@@ -1,0 +1,16 @@
+package Application;
+
+public class Objects {
+	public static void main(String[] args) {
+		
+		int age = 34; //<primitive data type
+		
+		String name = "Sally Mae"; //<object, has properties and methods
+		System.out.println(name.length());
+		System.out.println(name.charAt(3));
+		
+		int[] numbers = new int[3];
+		System.out.println(numbers.length);
+	}
+
+}
